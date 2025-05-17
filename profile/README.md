@@ -30,6 +30,7 @@ DB     : MySQL 8
 Infra  : AWS (EC2, S3, CloudFront, Route 53) · NGINX · Docker
 Build  : Gradle · Github Actions
 Frontend: React + TS · Vite · Tailwind CSS
+```
 
 ---
 
